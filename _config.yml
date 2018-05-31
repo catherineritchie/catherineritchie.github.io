@@ -25,7 +25,8 @@ instagram_username: catherine_r_x
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-swiss
+theme_color: orange
 plugins:
   - jekyll-feed
 
