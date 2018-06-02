@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello
+title: Hello / Intro
 date: '2018-05-31 22:31:29 +0100'
 categories: jekyll update
 published: true
