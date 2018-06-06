@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Another friendly reminder – don’t compare yourself to others. Pave your own path.
 
