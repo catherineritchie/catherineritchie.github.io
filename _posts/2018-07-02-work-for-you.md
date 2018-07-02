@@ -16,6 +16,7 @@ In my endeavour to pave my path, I had to get used to working from home every da
 **1.	Give yourself office hours that work for you**
 - Consider your daily routine and commitments (Kids? Pets? Family?)
 - Think about when might be best to communicate with others (Clients? Colleagues?)
+- Schedule regular breaks and a lunch hour to give yourself room to process and breathe
 
 
 
