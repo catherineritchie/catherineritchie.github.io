@@ -16,18 +16,22 @@ In my endeavour to pave my path, I had to get used to working from home every da
 - Think about when might be best to communicate with others (Clients? Colleagues?)
 
 
+
 **2.	A change of scenery can go a long way**
 - Often a shift in scenery can help free up your mind 
 - You never know who’ll you’ll meet out there
 - You never know what inspiration might hit you in a different setting
 
 
+
 **3.	Pat yourself on the back**
 - Recognise your achievements because no one else is going to tell you ‘good job’
 
 
+
 **4.	Regular exercise**
 - Healthy body, healthy mind – it’s not a lie
+
 
 
 Once again, do what works for you, there is no set path. We must do what we can to build a future for ourselves, follow our passions and learn.
