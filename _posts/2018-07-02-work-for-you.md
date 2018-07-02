@@ -9,7 +9,9 @@ Over the last few years I have learnt more and more about myself and the way I w
 
 I decided a few things: launch this site, present my thesis research findings to an audience, read more and explore my employment options. Firstly, I didn’t know how I wanted my website to look, but my favourite colour has always been orange and my auburn hair is something that has always made me stand out from others. So, I figured that was a good place to start. I have also learnt that sometimes it’s not about perfection, it’s about getting it out there into the world. Secondly, I haven’t presented anything in a very long time, so I thought it might be an interesting challenge to throw myself in at the deep end. Lastly, I needed to begin a new learning journey. I knew that in order to pursue the career I wanted, I needed to **[pave my own path](http://catherineritchie.co.uk/2018/06/06/pave-your-own-path.html)**. That means reading, going to events, talking to people and doing all that you can to break out on your own. 
 
-In my endeavour to pave my path, I had to get used to working from home every day. I have learnt that the following few steps have led me to be productive in the comfort of my own home. 
+~
+
+In my endeavour to pave my path, I had to get used to working from home every day. Here is what I have learnt: 
 
 **1.	Give yourself office hours that work for you**
 - Consider your daily routine and commitments (Kids? Pets? Family?)
