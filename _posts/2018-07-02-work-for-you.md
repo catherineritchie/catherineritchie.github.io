@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Work for You - How to work from home.
+## Work for you - how to work from home.
 
 Since finishing university, I have decided to pursue my passion in life. I set up meetings with interesting people, gained different perspectives and tried to pave the path I wanted for myself. Sometimes its left me feeling even more confused and feeling lost with no direction. But that’s ok. I’m learning. 
 
@@ -30,4 +30,4 @@ In my endeavour to pave my path, I had to get used to working from home every da
 - Healthy body, healthy mind – it’s not a lie
 
 
-Once again, do what works for you, there is no set path. We must do what we can to build a future for ourselves, follow our passions and learn. 
+Once again, do what works for you, there is no set path. We must do what we can to build a future for ourselves, follow our passions and learn.
