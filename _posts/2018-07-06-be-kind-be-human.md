@@ -5,7 +5,7 @@ published: true
 
 After a week away from the internet in the sunshine of the south of France, I have a new sense of clarity. Being away from the distraction of technology allowed me to read more and spend more time with the ones I love. This really brought back into perspective how important human connection is, however ‘social’ social media is. 
 
-Upon my return to the internet world, I streamed the Do Lectures live as we trundled north from Avignon back to London. As I tuned in, I started listening to a talk by Tina Roth-Eisenburg (@swissmiss). Her honesty and truth about her experience really resonated with me. 
+Upon my return to the internet world, I streamed the Do Lectures live as we trundled north from Avignon back to London. As I tuned in, I started listening to a talk by Tina Roth-Eisenberg (@swissmiss). Her honesty and truth about her experience really resonated with me. 
 
 In discussing her businesses, and her personal life, she discussed how her businesses were an extension of her and who she is. She talked about the darker times in her life where her businesses felt it too, again, because her businesses were an extension of her. She discussed this ripple effect because we are all human. We all feel things. This got me thinking – regardless of whether you’re the founder, the office manager or the cleaner, what we do every day is an extension of who we are. 
 
@@ -23,5 +23,4 @@ Engaging leaders – treating people as human beings, not a resource. Acknowledg
 
 Integrity – be honest. Any gap between who you are and who you say you are will only create mistrust and ultimately disengagement. 
 
-If we spend on average a third of our lives at work – we should want to spend that time doing something meaningful. I believe it is the responsibility of the organisation and everybody in it to find meaning and help others find meaning. As Tina says, it’s as simple as “be kind, be human”.  
-
+If we spend on average a third of our lives at work – we should want to spend that time doing something meaningful. I believe it is the responsibility of the organisation and everybody in it to find meaning and help others find meaning. As Tina says, it’s as simple as “be kind, be human”.
