@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-### Try, Try and Try Again.
+### Try, Try and Try Again - Keeping Confident.
 
 
 In recent weeks, uncertainty and ambiguity are two feelings that have often overwhelmed me. Lots of really exciting things have happened, but it’s all too easy to show only the good bits and talk only about the good things. So, I’m going to address some of those uncomfortable feelings that myself and others might be experiencing. 
