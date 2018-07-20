@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Try, Try and Try Again.
+### Try, Try and Try Again.
 
 
 In recent weeks, uncertainty and ambiguity are two feelings that have often overwhelmed me. Lots of really exciting things have happened, but it’s all too easy to show only the good bits and talk only about the good things. So, I’m going to address some of those uncomfortable feelings that myself and others might be experiencing. 
@@ -17,4 +17,3 @@ It can be challenging maintaining momentum in these times and it can be challeng
 My life philosophy is ‘work hard and be nice to people’. Nobody can ask anymore of you than these two simple things. I truly believe that if we work hard and practice kindness, we will get to where we need to be.
 
 For all of my fellow post-graduate job seekers, or anyone reading this who feels a little bit lost – it’s all learning. Be proactive and keep faith, you will make it one way or another.
-
