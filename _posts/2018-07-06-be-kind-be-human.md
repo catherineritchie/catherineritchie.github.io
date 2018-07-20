@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##  It's as simple as being human
+##  It's as simple as being human.
 
 After a week away from the internet in the sunshine of the south of France, I have a new sense of clarity. Being away from the distraction of technology allowed me to read more and spend more time with the ones I love. This really brought back into perspective how important human connection is, however ‘social’ social media is. 
 
