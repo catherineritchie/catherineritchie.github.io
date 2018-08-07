@@ -1,11 +1,11 @@
 ---
 published: true
 ---
-## Resilience – how I bounce back
+## Three key steps in building resilience.
 
 I recently stumbled upon a short video discussing resilience, and I thought ‘this is exactly what I needed to hear’. We need to talk more about the importance of resilience.
 
-At the moment, myself and other recent graduates are paving new and independent paths for ourselves in an endeavour to figure out who we are, what we want to contribute to an organisation and indeed, the world. This post acts as a follow-up to my **previous post**[http://catherineritchie.co.uk/2018/07/20/try,-try-and-try-again.html](http://catherineritchie.co.uk/2018/07/20/try,-try-and-try-again.html) about keeping confident in the face of uncertainty. 
+At the moment, myself and other recent graduates are paving new and independent paths for ourselves in an endeavour to figure out who we are, what we want to contribute to an organisation and indeed, the world. This post acts as a follow-up to my [**previous post**](http://catherineritchie.co.uk/2018/07/20/try,-try-and-try-again.html) about keeping confident in the face of uncertainty. 
 
 Resilience is often defined as the strength and speed of our response to adversity, or the capacity to recover quickly from difficulties. While there are much more severe and much more traumatic events that take place in the world every day, we as individuals still struggle in the face of our own uncertainties. 
 
