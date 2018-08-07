@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Resilience – how I bounce back
 
@@ -21,4 +21,4 @@ My three simple statements have helped me overcome much more than my recent anxi
 
 ~ 
 
-If you have any comments or stories you’d like to share, please get in touch via my social links on my homepage. I’d love to start a conversation and get to know anyone who’s new around here! 
+If you have any comments or stories you’d like to share, please get in touch via my social links on my homepage. I’d love to start a conversation and get to know anyone who’s new around here!
