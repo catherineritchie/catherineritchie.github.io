@@ -9,7 +9,7 @@ At the moment, myself and other recent graduates are paving new and independent 
 
 Resilience is often defined as the strength and speed of our response to adversity, or the capacity to recover quickly from difficulties. While there are much more severe and much more traumatic events that take place in the world every day, we as individuals still struggle in the face of our own uncertainties. 
 
-What I have learned through experience and reading is that resilience must be built. We are not born with ‘X’ amount of resilience, but it is something that will grow and develop throughout our lives as we encounter the inevitable highs and lows of life. Sometimes our problems can feel all-consuming, but it could be a lot worse. Be thankful for what you do have and celebrate even the smallest of successes. 
+What I have learned through experience and reading is that resilience must be built. We are not born with ‘X’ amount of resilience, but it is something that will grow and develop over time as we encounter the inevitable highs and lows of life. Sometimes our problems can feel all-consuming, but it could be a lot worse. Be thankful for what you do have and celebrate even the smallest of successes. 
 
 It is our attitude and the way we process the events that will help build resilience and aid our ability to overcome even the most difficult of circumstances. In my personal experience, I have overcome setbacks with three simple mantras I know to be true: 
 
