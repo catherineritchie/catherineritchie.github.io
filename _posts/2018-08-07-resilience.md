@@ -13,9 +13,11 @@ What I have learned through experience and reading is that resilience must be bu
 
 It is our attitude and the way we process the events that will help build resilience and aid our ability to overcome even the most difficult of circumstances. In my personal experience, I have overcome setbacks with three simple mantras I know to be true: 
 
+
 1.	Whatever has set me back has taught me something new 
 2.	It is setbacks and failures that make us human and make us who we are 
 3.	If we work hard and practice kindness, nobody can ask anymore of you 
+
 
 My three simple statements have helped me overcome much more than my recent anxieties in the search for my first graduate role, and my first steps into the real world. They have helped me through much more difficult times too. I hope you can practice these simple steps and know that - even in the face of rejections and difficult times - you are enough, and you will get there. 
 
