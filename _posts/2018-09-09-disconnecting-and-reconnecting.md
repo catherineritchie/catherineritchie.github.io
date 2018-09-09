@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-## Disconnecting and Reconnecting - Real connection found offline
+## Disconnecting and Reconnecting - Finding the Glow
 
 So, hello! It’s been a little while since I showed my face around here – I got a job! 
 
