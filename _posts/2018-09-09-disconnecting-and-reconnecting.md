@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##Disconnecting and Reconnecting - Real connection found offline
+## Disconnecting and Reconnecting - Real connection found offline
 
 So, hello! It’s been a little while since I showed my face around here – I got a job! 
 
@@ -15,4 +15,4 @@ For me, this time to disconnect from the everyday, and immerse myself in a world
 
 The all-consuming heart-felt glow I feel when I disconnect and reconnect is a feeling I want everyone to experience. A break from social media, the people you see every day and your job allows you to gain new perspective. It allows you to meet new people, learn new things, and gives you the opportunity to understand how someone else might see the world. It is a sensationally grounding experience, and a reminder that real connection is not found online in a Facebook friend request or a new Instagram follower, but between two human beings sat next to one another around the campfire, on a bus or in a queue at the supermarket.
 
-I urge you to break free from your everyday, try something new or something that scares you, and it will be so rewarding. Disconnect, and reconnect with something totally different, I hope you feel the glow too. 
+I urge you to break free from your everyday, try something new or something that scares you, and it will be so rewarding. Disconnect, and reconnect with something totally different, I hope you feel the glow too.
