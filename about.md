@@ -5,8 +5,8 @@ permalink: /about/
 published: true
 ---
 
-Hello! Welcome to my space on the internet to talk about all things people in the workplace. I am passionate about organisational culture, employee engagement and meaningful work.
+Hello! Welcome to my space on the internet to talk about all things human. Allow me to introduce myself, I am Catherine Ritchie, an award-winning marketing graduate, social media whiz and all round thinker, maker and doer. I enjoy the outdoors, second-hand shopping and making things with my hands.
 
-Allow me to introduce myself, I am Catherine Ritchie, a red-headed Scot determined to make a difference in workplace culture. I recently completed research in the field of internal marketing, organisational culture and entrepreneurial orientation, and found culture to be an extremely powerful component of workplace life. From this, employee engagement and meaningful work was highlighted as core attributes to a healthy and productive organisational culture. I began to question – why isn’t this at the core of business practice? 
+I am passionate about people and determined to help people be their best selves every day. This means you'll find me talking about workplace culture, employee engagement and meaningful work. As a firm believer in equality, you might also find me talking about women in business. Occasionally, I'll throw other things in the mix, just to keep it exciting.
 
-I have never been afraid to ask ‘why?’, eager to understand different perspectives and points of view. I have developed this online space to learn more, host conversations, offer food for thought and help us all learn about how we can gain value in our day-to-day working lives.
+I have developed this online space to learn more, offer food for thought and help us all learn about how we can gain value in our day-to-day. Follow my journey, connect with me and let's have a conversation.
