@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Plot twist: Curiosity didn’t kill the cat.
 
