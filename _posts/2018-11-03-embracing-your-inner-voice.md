@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-##Listen up - it's your inner voice talking. 
+## Listen up - it's your inner voice talking. 
 
 For a long time now, I’ve maintained the same belief – don’t lie to yourself. At a young age, I felt myself slipping down the wrong path, and deep in my gut, I knew it wasn’t for me. But, it takes confidence and courage to walk into the unknown and pave your own path – and that’s not something that happens overnight. 
 
