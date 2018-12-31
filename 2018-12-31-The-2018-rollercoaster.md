@@ -8,4 +8,4 @@ In the latter months of the year, I also discovered my community. For anyone who
 
 I am really excited about 2019, I have some super exciting things coming my way. I am nervous and I am anxious, but I am SO excited. I hope 2019 brings you joy and happiness, new challenges and opportunity. 
 
-Big love. 
+Big love.
