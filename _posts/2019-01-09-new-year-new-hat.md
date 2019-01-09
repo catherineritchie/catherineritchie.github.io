@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## New Year, New Hat
-
 ### Bringing all my learnings forward into 2019, I am pleased to make a few - very exciting - announcements!
 
 This week I started work as Marketing Assistant for **[The Do Book Co.](https://thedobook.co/)** When I graduated and was spending time contemplating the value I wanted to bring to the world, I selected my top three companies and I sent them each an email. Miranda, founder of the Do Book Co. responded with great enthusiasm, and a few weeks later we had coffee. Fast forward a couple of months, and here I am. 
