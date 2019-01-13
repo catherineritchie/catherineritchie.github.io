@@ -1,5 +1,5 @@
 steps:
-  - name: jekyll/jekyll
+  - name: jekyll/jekyll:3.8
     args: ["jekyll", "build"]
   - name: gcr.io/cloud-builders/gsutil
     args: ["-m", "rsync", "-r", "-c", "-d", "./_site", "gs://biddlyboops-catherineritchie-co-uk"]
